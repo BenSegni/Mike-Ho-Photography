@@ -1,0 +1,88 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="840 941 41.52 42">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #4285f4;
+      }
+
+      .cls-1, .cls-2, .cls-3, .cls-4, .cls-5 {
+        fill-rule: evenodd;
+      }
+
+      .cls-2 {
+        fill: #34a853;
+      }
+
+      .cls-3 {
+        fill: #fbbc05;
+      }
+
+      .cls-4 {
+        fill: #ea4335;
+      }
+
+      .cls-5 {
+        fill: none;
+      }
+
+      .cls-6 {
+        filter: url(#Path_4);
+      }
+
+      .cls-7 {
+        filter: url(#Path_3);
+      }
+
+      .cls-8 {
+        filter: url(#Path_2);
+      }
+
+      .cls-9 {
+        filter: url(#Path_1);
+      }
+    </style>
+    <filter id="Path_1" x="852" y="950.818" width="29.52" height="29.274" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Path_2" x="841.276" y="955.28" width="36.666" height="27.72" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-2"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-2"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Path_3" x="840" y="947.611" width="23.286" height="28.779" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-3"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-3"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Path_4" x="841.276" y="941" width="36.753" height="27.72" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-4"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-4"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Google_-G-_Logo" transform="translate(829 927)">
+    <g class="cls-9" transform="matrix(1, 0, 0, 1, -829, -927)">
+      <path id="Path_1-2" data-name="Path 1" class="cls-1" d="M267.52,215.544a13.78,13.78,0,0,0-.218-2.454H256v4.642h6.458a5.522,5.522,0,0,1-2.394,3.622v3.011h3.878A11.7,11.7,0,0,0,267.52,215.544Z" transform="translate(605 743.73)"/>
+    </g>
+    <g class="cls-8" transform="matrix(1, 0, 0, 1, -829, -927)">
+      <path id="Path_2-2" data-name="Path 2" class="cls-2" d="M55.824,310.56a11.456,11.456,0,0,0,7.942-2.907l-3.878-3.011a7.239,7.239,0,0,1-10.778-3.8H45.1v3.109A12,12,0,0,0,55.824,310.56Z" transform="translate(805.18 660.44)"/>
+    </g>
+    <g class="cls-7" transform="matrix(1, 0, 0, 1, -829, -927)">
+      <path id="Path_3-2" data-name="Path 3" class="cls-3" d="M25.286,157.679a7.1,7.1,0,0,1,0-4.56V150.01H21.276a12.017,12.017,0,0,0,0,10.779Z" transform="translate(829 803.6)"/>
+    </g>
+    <g class="cls-6" transform="matrix(1, 0, 0, 1, -829, -927)">
+      <path id="Path_4-2" data-name="Path 4" class="cls-4" d="M55.824,24.773a6.484,6.484,0,0,1,4.587,1.794l3.442-3.442A11.537,11.537,0,0,0,55.824,20,12,12,0,0,0,45.1,26.611l4.009,3.109A7.152,7.152,0,0,1,55.824,24.773Z" transform="translate(805.18 927)"/>
+    </g>
+    <path id="Path_5" data-name="Path 5" class="cls-5" d="M20,20H44V44H20Z"/>
+  </g>
+</svg>
